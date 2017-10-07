@@ -1,0 +1,42 @@
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/dma_common_l1f013.h:147: warning: group dma_if_offset: ignoring title "DMA Interrupt Flag Offsets within channel flag" that does not match old title "DMA Interrupt Flag Offsets within stream flag group."
+
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/l1/lcd.h:49: warning: Member LCD_CR found in multiple @defgroup groups! The member will be put in group lcd_reg_base, and not in group lcd_defines
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/st_usbfs_core.c:46: warning: The following parameters of st_usbfs_set_ep_rx_bufsize(usbd_device *dev, uint8_t ep, uint32_t size) are not documented:
+  parameter 'dev'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/st_usbfs_core.h:36: warning: The following parameters of st_usbfs_set_ep_rx_bufsize(usbd_device *dev, uint8_t ep, uint32_t size) are not documented:
+  parameter 'dev'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:99: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:100: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:101: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:78: warning: unable to resolve reference to `rcc_ahbrstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:79: warning: unable to resolve reference to `rcc_apb1rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:80: warning: unable to resolve reference to `rcc_apb2rstr_rst' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rcc_common_all.c:189: warning: Found unknown command `\parame'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l1/adc.c:182: warning: unable to resolve reference to `adc_trigger_injected' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:67: warning: argument 'stream' of command @param is not found in the argument list of dma_clear_interrupt_flags(uint32_t dma, uint8_t channel, uint32_t interrupts)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:317: warning: argument 'stream' of command @param is not found in the argument list of dma_disable_half_transfer_interrupt(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:193: warning: argument 'stream' of command @param is not found in the argument list of dma_disable_memory_increment_mode(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:221: warning: argument 'stream' of command @param is not found in the argument list of dma_disable_peripheral_increment_mode(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:341: warning: argument 'stream' of command @param is not found in the argument list of dma_disable_transfer_complete_interrupt(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:293: warning: argument 'stream' of command @param is not found in the argument list of dma_disable_transfer_error_interrupt(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:233: warning: argument 'stream' of command @param is not found in the argument list of dma_enable_circular_mode(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:305: warning: argument 'stream' of command @param is not found in the argument list of dma_enable_half_transfer_interrupt(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:177: warning: argument 'stream' of command @param is not found in the argument list of dma_enable_memory_increment_mode(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:205: warning: argument 'stream' of command @param is not found in the argument list of dma_enable_peripheral_increment_mode(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:329: warning: argument 'stream' of command @param is not found in the argument list of dma_enable_transfer_complete_interrupt(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:281: warning: argument 'stream' of command @param is not found in the argument list of dma_enable_transfer_error_interrupt(uint32_t dma, uint8_t channel)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:87: warning: argument 'stream' of command @param is not found in the argument list of dma_get_interrupt_flag(uint32_t dma, uint8_t channel, uint32_t interrupt)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:401: warning: argument 'stream' of command @param is not found in the argument list of dma_set_memory_address(uint32_t dma, uint8_t channel, uint32_t address)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:139: warning: argument 'stream' of command @param is not found in the argument list of dma_set_memory_size(uint32_t dma, uint8_t channel, uint32_t mem_size)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:419: warning: argument 'stream' of command @param is not found in the argument list of dma_set_number_of_data(uint32_t dma, uint8_t channel, uint16_t number)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:380: warning: argument 'stream' of command @param is not found in the argument list of dma_set_peripheral_address(uint32_t dma, uint8_t channel, uint32_t address)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:157: warning: argument 'stream' of command @param is not found in the argument list of dma_set_peripheral_size(uint32_t dma, uint8_t channel, uint32_t peripheral_size)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/dma_common_l1f013.c:122: warning: argument 'stream' of command @param is not found in the argument list of dma_set_priority(uint32_t dma, uint8_t channel, uint32_t prio)
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/timer_common_f0234.c:34: warning: explicit link request to 'tim_ic_pol' could not be resolved
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/l1/timer.c:47: warning: The following parameters of timer_set_option(uint32_t timer_peripheral, uint32_t option) are not documented:
+  parameter 'option'
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/usart_common_v2.c:201: warning: unable to resolve reference to `usart_isr' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/usart_common_v2.c:153: warning: unable to resolve reference to `usart_isr_rtof' for \ref command
+/home/esdentem/projects/libopencm3/libopencm3-git/lib/stm32/common/rng_common_v1.c:45: warning: argument 'pointer' of command @param is not found in the argument list of rng_get_random(uint32_t *rand_nr)
+/home/esdentem/projects/libopencm3/libopencm3-git/include/libopencm3/stm32/common/rng_common_v1.h:78: warning: The following parameters of rng_get_random(uint32_t *rand_nr) are not documented:
+  parameter 'rand_nr'

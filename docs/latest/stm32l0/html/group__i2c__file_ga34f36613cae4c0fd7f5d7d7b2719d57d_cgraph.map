@@ -1,0 +1,24 @@
+<map id="i2c_transfer7" name="i2c_transfer7">
+<area shape="rect" id="node2" href="$group__i2c__file.html#ga8ee39542b8b27e6b298a44d6493546a2" title="i2c_disable_autoend" alt="" coords="167,5,307,32"/>
+<area shape="rect" id="node3" href="$group__i2c__file.html#gaa30db58b7bec562d300b3a185bff5cee" title="i2c_enable_autoend" alt="" coords="168,56,305,83"/>
+<area shape="rect" id="node4" href="$group__i2c__defines.html#gab0fae615ab83fcd0dac9885fd04c4731" title="I2C Get Data. " alt="" coords="189,107,285,133"/>
+<area shape="rect" id="node5" href="$group__i2c__file.html#gafb594fe17ee2af9ff510edb15a29ef6c" title="i2c_nack" alt="" coords="199,157,274,184"/>
+<area shape="rect" id="node6" href="$group__i2c__file.html#gab3a820010b66581dea135b37cc908d54" title="i2c_read7_v1" alt="" coords="187,208,286,235"/>
+<area shape="rect" id="node12" href="$group__i2c__file.html#ga90b4cd40407eefb70f18e5aa43630d44" title="I2C Send Stop Condition. " alt="" coords="395,259,501,285"/>
+<area shape="rect" id="node13" href="$group__i2c__file.html#ga758469ebc6b32709c7098a767d583280" title="i2c_received_data" alt="" coords="173,309,300,336"/>
+<area shape="rect" id="node14" href="$group__i2c__defines.html#gaad83fb76f31941e9d0e1083d8e4ea6f0" title="I2C Send Data. " alt="" coords="183,360,290,387"/>
+<area shape="rect" id="node15" href="$group__i2c__defines.html#ga5c21ca1eb1791661f78247cdccf82734" title="I2C Send Start Condition. " alt="" coords="183,411,290,437"/>
+<area shape="rect" id="node16" href="$group__i2c__file.html#ga16796d9c15e8f462c11cb08678ef9804" title="i2c_set_7bit_address" alt="" coords="164,461,309,488"/>
+<area shape="rect" id="node17" href="$group__i2c__file.html#ga68a6760bfcd203f922669c4f64009fb6" title="i2c_set_bytes_to_transfer" alt="" coords="151,512,323,539"/>
+<area shape="rect" id="node18" href="$group__i2c__file.html#gaabc1f0734a62aff08f8bf50f95fde1f3" title="i2c_set_read_transfer_dir" alt="" coords="153,563,321,589"/>
+<area shape="rect" id="node19" href="$group__i2c__file.html#ga7188b92beaaca3762937609b51041379" title="i2c_set_write_transfer_dir" alt="" coords="151,613,322,640"/>
+<area shape="rect" id="node20" href="$group__i2c__file.html#gaecba014143b8df9ced66f9324f91388c" title="i2c_transfer_complete" alt="" coords="161,664,312,691"/>
+<area shape="rect" id="node21" href="$group__i2c__file.html#ga9e3bab47c46c13d1c3e9f40102e57a35" title="i2c_transmit_int_status" alt="" coords="158,715,315,741"/>
+<area shape="rect" id="node22" href="$group__i2c__file.html#gae16e65614b060e4d76a70b27b06eeb0e" title="i2c_write7_v1" alt="" coords="185,765,288,792"/>
+<area shape="rect" id="node7" href="$group__i2c__file.html#ga395fd658d7c467511669ba6e1871c160" title="I2C Disable ACK. " alt="" coords="391,107,505,133"/>
+<area shape="rect" id="node8" href="$group__i2c__file.html#ga5a96238eca687f4af66247ea570d96dc" title="I2C Enable ACK. " alt="" coords="392,157,504,184"/>
+<area shape="rect" id="node9" href="$group__i2c__file.html#gab0fae615ab83fcd0dac9885fd04c4731" title="I2C Get Data. " alt="" coords="400,208,496,235"/>
+<area shape="rect" id="node10" href="$group__i2c__file.html#gac84a8cc0d49c99f032f7ea87ac0f1302" title="I2C Send the 7&#45;bit Slave Address. " alt="" coords="371,627,525,653"/>
+<area shape="rect" id="node11" href="$group__i2c__file.html#ga5c21ca1eb1791661f78247cdccf82734" title="I2C Send Start Condition. " alt="" coords="395,399,501,425"/>
+<area shape="rect" id="node23" href="$group__i2c__file.html#gaad83fb76f31941e9d0e1083d8e4ea6f0" title="I2C Send Data. " alt="" coords="395,765,501,792"/>
+</map>

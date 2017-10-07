@@ -1,0 +1,4 @@
+<map id="flash_set_ws" name="flash_set_ws">
+<area shape="rect" id="node2" href="$group__flash__defines.html#ga1b35f387b1aa45b20bccc40456cb33fc" title="Disable the FLASH Prefetch Buffer. " alt="" coords="152,5,304,32"/>
+<area shape="rect" id="node3" href="$group__STM32L0xx-rcc-file.html#ga4bbf49936af50688a96ec4f309f710c6" title="Set up sysclock with PLL from HSI16. " alt="" coords="159,56,297,83"/>
+</map>

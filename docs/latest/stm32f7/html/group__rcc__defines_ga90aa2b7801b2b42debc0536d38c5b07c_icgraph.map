@@ -1,0 +1,4 @@
+<map id="rcc_periph_clock_enable" name="rcc_periph_clock_enable">
+<area shape="rect" id="node2" href="$group__CRS__defines.html#ga01a9ce5f79f9244985f2ad45c671cd37" title="This function enables automatic trimming of internal RC oscillator by USB SOF frames. " alt="" coords="222,5,389,32"/>
+<area shape="rect" id="node3" href="$rcc_8c.html#a04fd1ed2bbe9564b636fe3d0b0db2a54" title="rcc_clock_setup_hse_3v3" alt="" coords="219,56,392,83"/>
+</map>

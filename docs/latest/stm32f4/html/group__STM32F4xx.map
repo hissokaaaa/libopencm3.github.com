@@ -1,0 +1,20 @@
+<map id="STM32F4xx" name="STM32F4xx">
+<area shape="rect" id="node1" href="$group__rcc__file.html" title="libopencm3 STM32F4xx Reset and Clock Control " alt="" coords="160,5,212,32"/>
+<area shape="rect" id="node2" href="$group__gpio__file.html" title="libopencm3 STM32F4xx General Purpose I/O " alt="" coords="159,56,213,83"/>
+<area shape="rect" id="node3" href="$group__rng__file.html" title="libopencm3 STM32F4xx RNG " alt="" coords="160,107,212,133"/>
+<area shape="rect" id="node4" href="$group__dac__file.html" title="libopencm3 STM32F4xx DAC " alt="" coords="161,157,211,184"/>
+<area shape="rect" id="node5" href="$group__usart__file.html" title="libopencm3 STM32F4xx USART " alt="" coords="152,208,220,235"/>
+<area shape="rect" id="node6" href="$group__hash__file.html" title="libopencm3 STM32F4xx Hash Processor " alt="" coords="156,259,216,285"/>
+<area shape="rect" id="node7" href="$group__iwdg__file.html" title="libopencm3 STM32F4xx Independent Watchdog Timer " alt="" coords="157,309,215,336"/>
+<area shape="rect" id="node8" href="$group__dma__file.html" title="libopencm3 STM32F4xx DMA " alt="" coords="160,360,212,387"/>
+<area shape="rect" id="node9" href="$group__ltdc__file.html" title="libopencm3 STM32F4xx LTDC " alt="" coords="157,411,215,437"/>
+<area shape="rect" id="node10" href="$group__pwr__file.html" title="libopencm3 STM32F4xx Power Control " alt="" coords="159,461,213,488"/>
+<area shape="rect" id="node11" href="$group__rtc__file.html" title="libopencm3 STM32F4xx RTC " alt="" coords="161,512,211,539"/>
+<area shape="rect" id="node13" href="$group__spi__file.html" title="libopencm3 STM32F4xx SPI " alt="" coords="164,563,208,589"/>
+<area shape="rect" id="node14" href="$group__crypto__file.html" title="libopencm3 STM32F4xx CRYPTO " alt="" coords="147,613,225,640"/>
+<area shape="rect" id="node15" href="$group__crc__file.html" title="libopencm3 STM32F4xx CRC " alt="" coords="160,664,212,691"/>
+<area shape="rect" id="node16" href="$group__adc__file.html" title="libopencm3 STM32F4xx Analog to Digital Converters " alt="" coords="161,715,211,741"/>
+<area shape="rect" id="node17" href="$group__i2c__file.html" title="libopencm3 STM32F4xx I2C " alt="" coords="165,765,207,792"/>
+<area shape="rect" id="node18" href="$group__flash__file.html" title="libopencm3 STM32F4xx FLASH " alt="" coords="153,816,219,843"/>
+<area shape="rect" id="node19" href="$group__timer__file.html" title="libopencm3 STM32F4xx Timers " alt="" coords="155,867,217,893"/>
+</map>
